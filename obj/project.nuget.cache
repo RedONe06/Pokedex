@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zwcd6CAXdQstaPkw8c/jXtj5ScoXLrIZ8GLWl7cVHG+UeByANPGszZqXM6JYeY//rgpQUMaZhoemH67Zv3bBOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andriele\\Downloads\\Alura\\PokedexCharp\\PokedexCharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andriele\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Andriele\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
